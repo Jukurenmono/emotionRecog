@@ -53,3 +53,5 @@ const EmotionChart = ({ emotionData }: { emotionData: { happy: number; sad: numb
 };
 
 export default EmotionChart;
+
+
